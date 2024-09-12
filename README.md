@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaleb</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-kaleb&label=Profile%20views&color=0e75b6&style=flat" alt="coder-kaleb" /> </p>
-
 - 💬 Ask me about **ReactJS, NextJS, JavaScript, TypeScript,**
 
 - 📫 How to reach me **kalebmikiyas10@gmail.com**
