@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleb</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
 - 💬 Ask me about **ReactJS, NextJS, JavaScript, TypeScript,**
 
